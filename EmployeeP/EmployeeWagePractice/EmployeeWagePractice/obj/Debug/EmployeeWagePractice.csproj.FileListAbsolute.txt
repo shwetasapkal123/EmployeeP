@@ -1,0 +1,8 @@
+C:\Users\Pratiksha\FellowPracticeProblem\EmployeeP\EmployeeWagePractice\EmployeeWagePractice\bin\Debug\EmployeeWagePractice.exe.config
+C:\Users\Pratiksha\FellowPracticeProblem\EmployeeP\EmployeeWagePractice\EmployeeWagePractice\bin\Debug\EmployeeWagePractice.exe
+C:\Users\Pratiksha\FellowPracticeProblem\EmployeeP\EmployeeWagePractice\EmployeeWagePractice\bin\Debug\EmployeeWagePractice.pdb
+C:\Users\Pratiksha\FellowPracticeProblem\EmployeeP\EmployeeWagePractice\EmployeeWagePractice\obj\Debug\EmployeeWagePractice.csproj.AssemblyReference.cache
+C:\Users\Pratiksha\FellowPracticeProblem\EmployeeP\EmployeeWagePractice\EmployeeWagePractice\obj\Debug\EmployeeWagePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pratiksha\FellowPracticeProblem\EmployeeP\EmployeeWagePractice\EmployeeWagePractice\obj\Debug\EmployeeWagePractice.csproj.CoreCompileInputs.cache
+C:\Users\Pratiksha\FellowPracticeProblem\EmployeeP\EmployeeWagePractice\EmployeeWagePractice\obj\Debug\EmployeeWagePractice.exe
+C:\Users\Pratiksha\FellowPracticeProblem\EmployeeP\EmployeeWagePractice\EmployeeWagePractice\obj\Debug\EmployeeWagePractice.pdb
