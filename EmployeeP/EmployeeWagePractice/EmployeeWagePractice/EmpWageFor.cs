@@ -19,7 +19,7 @@ namespace EmployeeWagePractice
             {
                 Random random = new Random();       //random input generating
                 int empCheck = random.Next(0, 2);   //input take 0,1,2 case 1=part time case2=full time case0=default
-                switch (empCheck)
+                switch (empCheck)                  //using switch to check employee present for part,full time 
                 {
                     case IS_PART_TIME:
                         empHrs = 4;
@@ -31,11 +31,11 @@ namespace EmployeeWagePractice
                         empHrs = 0;
                         break;
                 }
-                empWage = empHrs * EMP_RATE_PER_HOUR;
-                totalEmpWage += empWage;
-                Console.WriteLine("Employee wage for {0}day is {1}:",day,empWage);
+                empWage = empHrs * EMP_RATE_PER_HOUR;       //Calculate Wage for day by day
+                totalEmpWage += empWage;                    //Calculating total month wage
+                Console.WriteLine("Employee wage for {0}day is {1}:",day,empWage); //Display the output
             }
-            Console.WriteLine("Employee wage for month is:"+totalEmpWage);
+            Console.WriteLine("Employee wage for month is:"+totalEmpWage);      
         }
     }
 }
