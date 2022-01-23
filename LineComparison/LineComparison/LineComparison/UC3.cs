@@ -29,14 +29,14 @@ namespace LineComparison
             Console.WriteLine("Enter Y4 point");            //take input from user
             y4 = Convert.ToInt32(Console.ReadLine());        //read user input and convert it to integer
 
-            firstLength = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
-            Console.WriteLine("first Length is:" + Math.Round(firstLength, 2));
-            secLength = Math.Sqrt(Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2));
-            Console.WriteLine("Second Length is :" + Math.Round(secLength, 2));
+            firstLength = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));       //Calculating Length
+            Console.WriteLine("first Length is:" + Math.Round(firstLength, 2));         //result round to two decimal points and display
+            secLength = Math.Sqrt(Math.Pow(x4 - x3, 2) + Math.Pow(y4 - y3, 2));         //Calculating length
+            Console.WriteLine("Second Length is :" + Math.Round(secLength, 2));         //result round to two decimal points and display
 
-            int diffLength=firstLength.CompareTo(secLength);
+            int diffLength=firstLength.CompareTo(secLength);                        //Compare two lines length and result store in diffLength
             Console.WriteLine("\nUsing CompareTo Method");
-            if (diffLength == 0)
+            if (diffLength == 0)                                                //checking lines length equal,less ,greater than second 
                 Console.WriteLine("Lines are equal");
             else if (diffLength > 0)
                 Console.WriteLine("First Line Length is greater than Second line Length");
