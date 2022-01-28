@@ -1,0 +1,8 @@
+C:\Users\pradnya\Desktop\Shweta\HeadTail\HeadTail\bin\Debug\HeadTail.exe.config
+C:\Users\pradnya\Desktop\Shweta\HeadTail\HeadTail\bin\Debug\HeadTail.exe
+C:\Users\pradnya\Desktop\Shweta\HeadTail\HeadTail\bin\Debug\HeadTail.pdb
+C:\Users\pradnya\Desktop\Shweta\HeadTail\HeadTail\obj\Debug\HeadTail.csproj.AssemblyReference.cache
+C:\Users\pradnya\Desktop\Shweta\HeadTail\HeadTail\obj\Debug\HeadTail.csproj.SuggestedBindingRedirects.cache
+C:\Users\pradnya\Desktop\Shweta\HeadTail\HeadTail\obj\Debug\HeadTail.csproj.CoreCompileInputs.cache
+C:\Users\pradnya\Desktop\Shweta\HeadTail\HeadTail\obj\Debug\HeadTail.exe
+C:\Users\pradnya\Desktop\Shweta\HeadTail\HeadTail\obj\Debug\HeadTail.pdb

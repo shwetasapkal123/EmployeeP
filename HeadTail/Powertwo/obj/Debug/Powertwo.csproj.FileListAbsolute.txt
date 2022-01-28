@@ -1,0 +1,8 @@
+C:\Users\pradnya\Desktop\Shweta\HeadTail\Powertwo\obj\Debug\Powertwo.csproj.AssemblyReference.cache
+C:\Users\pradnya\Desktop\Shweta\HeadTail\Powertwo\obj\Debug\Powertwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\pradnya\Desktop\Shweta\HeadTail\Powertwo\obj\Debug\Powertwo.csproj.CoreCompileInputs.cache
+C:\Users\pradnya\Desktop\Shweta\HeadTail\Powertwo\bin\Debug\Powertwo.exe.config
+C:\Users\pradnya\Desktop\Shweta\HeadTail\Powertwo\bin\Debug\Powertwo.exe
+C:\Users\pradnya\Desktop\Shweta\HeadTail\Powertwo\bin\Debug\Powertwo.pdb
+C:\Users\pradnya\Desktop\Shweta\HeadTail\Powertwo\obj\Debug\Powertwo.exe
+C:\Users\pradnya\Desktop\Shweta\HeadTail\Powertwo\obj\Debug\Powertwo.pdb

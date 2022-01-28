@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadTail", "HeadTail\HeadTail.csproj", "{6B2410F3-2B2E-44AE-9444-A2B1A91AD388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear", "LeapYear\LeapYear.csproj", "{7491C825-81BB-4082-B713-B19597F9371B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powertwo", "Powertwo\Powertwo.csproj", "{32567BA3-4EE3-4E60-842F-8CC1532BBB8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2410F3-2B2E-44AE-9444-A2B1A91AD388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2410F3-2B2E-44AE-9444-A2B1A91AD388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2410F3-2B2E-44AE-9444-A2B1A91AD388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2410F3-2B2E-44AE-9444-A2B1A91AD388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7491C825-81BB-4082-B713-B19597F9371B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7491C825-81BB-4082-B713-B19597F9371B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7491C825-81BB-4082-B713-B19597F9371B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7491C825-81BB-4082-B713-B19597F9371B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32567BA3-4EE3-4E60-842F-8CC1532BBB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32567BA3-4EE3-4E60-842F-8CC1532BBB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32567BA3-4EE3-4E60-842F-8CC1532BBB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32567BA3-4EE3-4E60-842F-8CC1532BBB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D23793-0B17-4C06-8CCD-767DAC631DAC}
+	EndGlobalSection
+EndGlobal
