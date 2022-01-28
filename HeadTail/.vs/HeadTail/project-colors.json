@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b2410f3-2b2e-44ae-9444-a2b1a91ad388": {
+      "ProjectGuid": "6b2410f3-2b2e-44ae-9444-a2b1a91ad388",
+      "DisplayName": "HeadTail",
+      "ColorIndex": 0
+    },
+    "7491c825-81bb-4082-b713-b19597f9371b": {
+      "ProjectGuid": "7491c825-81bb-4082-b713-b19597f9371b",
+      "DisplayName": "LeapYear",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "32567ba3-4ee3-4e60-842f-8cc1532bbb8f": {
+      "ProjectGuid": "32567ba3-4ee3-4e60-842f-8cc1532bbb8f",
+      "DisplayName": "Powertwo",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

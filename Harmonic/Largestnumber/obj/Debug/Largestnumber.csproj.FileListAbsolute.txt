@@ -1,0 +1,8 @@
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Largestnumber\bin\Debug\Largestnumber.exe.config
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Largestnumber\bin\Debug\Largestnumber.exe
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Largestnumber\bin\Debug\Largestnumber.pdb
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Largestnumber\obj\Debug\Largestnumber.csproj.AssemblyReference.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Largestnumber\obj\Debug\Largestnumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Largestnumber\obj\Debug\Largestnumber.csproj.CoreCompileInputs.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Largestnumber\obj\Debug\Largestnumber.exe
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Largestnumber\obj\Debug\Largestnumber.pdb

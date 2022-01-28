@@ -1,0 +1,8 @@
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Evenodd\bin\Debug\Evenodd.exe.config
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Evenodd\bin\Debug\Evenodd.exe
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Evenodd\bin\Debug\Evenodd.pdb
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Evenodd\obj\Debug\Evenodd.csproj.AssemblyReference.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Evenodd\obj\Debug\Evenodd.csproj.SuggestedBindingRedirects.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Evenodd\obj\Debug\Evenodd.csproj.CoreCompileInputs.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Evenodd\obj\Debug\Evenodd.exe
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Evenodd\obj\Debug\Evenodd.pdb

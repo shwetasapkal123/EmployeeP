@@ -1,0 +1,8 @@
+C:\Users\pradnya\Desktop\Shweta\Harmonic\VowelConsonant\bin\Debug\VowelConsonant.exe.config
+C:\Users\pradnya\Desktop\Shweta\Harmonic\VowelConsonant\bin\Debug\VowelConsonant.exe
+C:\Users\pradnya\Desktop\Shweta\Harmonic\VowelConsonant\bin\Debug\VowelConsonant.pdb
+C:\Users\pradnya\Desktop\Shweta\Harmonic\VowelConsonant\obj\Debug\VowelConsonant.csproj.AssemblyReference.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\VowelConsonant\obj\Debug\VowelConsonant.csproj.SuggestedBindingRedirects.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\VowelConsonant\obj\Debug\VowelConsonant.csproj.CoreCompileInputs.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\VowelConsonant\obj\Debug\VowelConsonant.exe
+C:\Users\pradnya\Desktop\Shweta\Harmonic\VowelConsonant\obj\Debug\VowelConsonant.pdb

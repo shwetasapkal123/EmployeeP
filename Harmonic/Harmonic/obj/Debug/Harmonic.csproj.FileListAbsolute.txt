@@ -1,0 +1,8 @@
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Harmonic\bin\Debug\Harmonic.exe.config
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Harmonic\bin\Debug\Harmonic.exe
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Harmonic\bin\Debug\Harmonic.pdb
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Harmonic\obj\Debug\Harmonic.csproj.AssemblyReference.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Harmonic\obj\Debug\Harmonic.csproj.SuggestedBindingRedirects.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Harmonic\obj\Debug\Harmonic.csproj.CoreCompileInputs.cache
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Harmonic\obj\Debug\Harmonic.exe
+C:\Users\pradnya\Desktop\Shweta\Harmonic\Harmonic\obj\Debug\Harmonic.pdb
