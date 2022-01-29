@@ -1,0 +1,8 @@
+C:\Users\pradnya\Desktop\Shweta\Day6\Prime\bin\Debug\Prime.exe.config
+C:\Users\pradnya\Desktop\Shweta\Day6\Prime\bin\Debug\Prime.exe
+C:\Users\pradnya\Desktop\Shweta\Day6\Prime\bin\Debug\Prime.pdb
+C:\Users\pradnya\Desktop\Shweta\Day6\Prime\obj\Debug\Prime.csproj.AssemblyReference.cache
+C:\Users\pradnya\Desktop\Shweta\Day6\Prime\obj\Debug\Prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\pradnya\Desktop\Shweta\Day6\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\pradnya\Desktop\Shweta\Day6\Prime\obj\Debug\Prime.exe
+C:\Users\pradnya\Desktop\Shweta\Day6\Prime\obj\Debug\Prime.pdb

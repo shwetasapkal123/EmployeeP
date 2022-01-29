@@ -1,0 +1,8 @@
+C:\Users\pradnya\Desktop\Shweta\Day6\Couponnumber\bin\Debug\Couponnumber.exe.config
+C:\Users\pradnya\Desktop\Shweta\Day6\Couponnumber\bin\Debug\Couponnumber.exe
+C:\Users\pradnya\Desktop\Shweta\Day6\Couponnumber\bin\Debug\Couponnumber.pdb
+C:\Users\pradnya\Desktop\Shweta\Day6\Couponnumber\obj\Debug\Couponnumber.csproj.AssemblyReference.cache
+C:\Users\pradnya\Desktop\Shweta\Day6\Couponnumber\obj\Debug\Couponnumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\pradnya\Desktop\Shweta\Day6\Couponnumber\obj\Debug\Couponnumber.csproj.CoreCompileInputs.cache
+C:\Users\pradnya\Desktop\Shweta\Day6\Couponnumber\obj\Debug\Couponnumber.exe
+C:\Users\pradnya\Desktop\Shweta\Day6\Couponnumber\obj\Debug\Couponnumber.pdb
